@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring DFRobot_EOxygenSensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_EOxygenSensor	KEYWORD1
+DFRobot_EOxygenSensor_I2C	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+readOxygenConcentration	KEYWORD2
+readCalibrationState	KEYWORD2
+calibration_20_9	KEYWORD2
+calibration_99_5	KEYWORD2
+clearCalibration	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+E_OXYGEN_ADDRESS_0	LITERAL1
+E_OXYGEN_ADDRESS_1	LITERAL1
+E_OXYGEN_ADDRESS_2	LITERAL1
+E_OXYGEN_ADDRESS_3	LITERAL1
